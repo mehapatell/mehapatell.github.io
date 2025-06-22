@@ -19,12 +19,12 @@ Welcome to my portfolio!
   <ul>
     <li><a href="https://github.com/mehapatell/spc-framework">GitHub Repo</a></li>
     <li><a href="assets/Kite_MSPC_Report.pdf">Final Report (PDF)</a></li>
-    <li><a href="assets/Kite_MSPC_Slides.pdf">Presentation Slides</a></li>
+    <li><a href="assets/forest_plot.png">Presentation Slides</a></li>
   </ul>
 </div>
 
 ### 🔹 mu-Imputed mSCD for Missing Data
-Co-authored publication in SIURO on a novel technique for solving linear systems with missing data.  
+Co-authored publication in SIURO on a novel technique for solving linear syst,  mems with missing data.  
 **Tech:** MATLAB, Linear Algebra, Optimization  
 📄 [Read Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.siam.org/media/ecvhfw2t/s159201r.pdf)
 
