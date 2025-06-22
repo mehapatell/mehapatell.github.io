@@ -23,6 +23,7 @@ patients with chronic migraine.
 consistency and heterogeneity
 
 [SPC Graph](assets/forest_plot.png)  
+
 **Results:** From the forest plot comparing all treatments versus Galcanezumab (random effects model), we can conclude that Galcanezumab demonstrated statistically significant superiority only versus placebo. All active treatments achieved reductions exceeding the 2-day threshold generally considered clinically meaningful for chronic migraine prevention.
 📊 [GitHub Repo](https://github.com/mehapatell/Network-Meta-Analysis)  
 📄 [Final Report (PDF)](assets/NMA_Meha_Patel.pdf)  
