@@ -20,10 +20,9 @@ Developed a framework to monitor manufacturing processes using PCA and machine l
 - Identified key parameter interactions causing out-of-control batches.
 - Presented to statisticians and engineering leads.
 
-![SPC Graph](assets/forest_plot.png)  
+[SPC Graph](assets/forest_plot.png)  
 📊 [GitHub Repo](https://github.com/mehapatell/spc-framework)  
 📄 [Final Report (PDF)](assets/Kite_MSPC_Report.pdf)  
-📽️ [Presentation Slides (PDF)](assets/Kite_MSPC_Slides.pdf)
 
 ---
 
