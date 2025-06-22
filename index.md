@@ -12,15 +12,18 @@ Welcome to my portfolio!
 
 ## 💼 Featured Projects
 
-### 🔹 Multivariate SPC Framework at Kite Pharma
-Developed a framework to monitor manufacturing processes using PCA and machine learning models.
+### 🔹 Network Meta Analysis on Chronic Migraine Treatments
+Performed Network Meta Analysis to ompare the efficacy of Galcanezumab versus key comparators in reducing monthly migraine days in
+patients with chronic migraine.
 
-**Tools:** Python, SAS, Random Forest, SVM  
+**Tools:** R, Rmd, netmeta, LaTex, EDA  
 **Highlights:**
-- Identified key parameter interactions causing out-of-control batches.
-- Presented to statisticians and engineering leads.
+- Rank treatments based on relative effectiveness using network-derived estimates.
+- Assess the certainty of evidence supporting treatment comparisons through the evaluation of network
+consistency and heterogeneity
 
 [SPC Graph](assets/forest_plot.png)  
+**Results:** From the forest plot comparing all treatments versus Galcanezumab (random effects model), we can conclude that Galcanezumab demonstrated statistically significant superiority only versus placebo. All active treatments achieved reductions exceeding the 2-day threshold generally considered clinically meaningful for chronic migraine prevention.
 📊 [GitHub Repo](https://github.com/mehapatell/spc-framework)  
 📄 [Final Report (PDF)](assets/Kite_MSPC_Report.pdf)  
 
