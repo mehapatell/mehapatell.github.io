@@ -12,12 +12,16 @@ Welcome to my portfolio!
 
 ## 💼 Featured Projects
 
-### 🔹 Multivariate SPC Framework
-Developed at Kite Pharma to consolidate 10+ parameters into a unified control chart system, enabling early detection of batch failures.  
-**Tech:** Python, PCA, SVM, Random Forest  
-➡️ [GitHub Repo](https://github.com/mehapatell/spc-framework)
-
----
+<div class="project-card">
+  <h3>🔹 Multivariate SPC Framework</h3>
+  <p><strong>Tools:</strong> Python, SAS, Random Forest, SVM</p>
+  <img src="assets/spc_chart.png" alt="SPC Graph" width="600px">
+  <ul>
+    <li><a href="https://github.com/mehapatell/spc-framework">GitHub Repo</a></li>
+    <li><a href="assets/Kite_MSPC_Report.pdf">Final Report (PDF)</a></li>
+    <li><a href="assets/Kite_MSPC_Slides.pdf">Presentation Slides</a></li>
+  </ul>
+</div>
 
 ### 🔹 mu-Imputed mSCD for Missing Data
 Co-authored publication in SIURO on a novel technique for solving linear systems with missing data.  
