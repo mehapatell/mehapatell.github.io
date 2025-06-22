@@ -13,8 +13,7 @@ Welcome to my portfolio!
 ## 💼 Featured Projects
 
 ### 🔹 Network Meta Analysis on Chronic Migraine Treatments
-Performed Network Meta Analysis to ompare the efficacy of Galcanezumab versus key comparators in reducing monthly migraine days in
-patients with chronic migraine.
+**Objective:** Compare the efficacy of Galcanezumab versus key comparators in reducing monthly migraine days in patients with chronic migraine.
 
 **Tools & Packages:** R, Rmd, netmeta, LaTex, EDA  
 **Highlights:**
